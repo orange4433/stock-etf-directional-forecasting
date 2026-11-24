@@ -1,4 +1,4 @@
-# Stock and ETF Directional Forecasting
+# Directional Forecasting of Stocks and ETFs with Temporal Deep Learning Models
 
 Research archive comparing **DLinear, LSTM and TCN** for directional forecasting of US stocks and ETFs. The daily study uses AAPL, MSFT, JPM, JNJ and WMT; the intraday study uses EEM.
 
